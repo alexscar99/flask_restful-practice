@@ -1,1 +1,8 @@
-### Python API built with Flask, flask_restful and sqlite3
+## Python API 
+
+
+- Technologies Used 
+  - Flask
+  - flask_restful
+  - flask_jwt
+  - sqlite3
